@@ -29149,7 +29149,7 @@ var Header = React.createClass({displayName: "Header",
             React.createElement("nav", {className: "navbar navbar-default"}, 
                 React.createElement("div", {className: "container-fluid"}, 
                     React.createElement("a", {href: "/", className: "navbar-brand"}, 
-                        React.createElement("img", {src: "images/logo.png"})
+                        React.createElement("img", {className: "logo", src: "images/logo.png"})
                     ), 
                     React.createElement("ul", {className: "nav navbar-nav"}, 
                         React.createElement("li", null, React.createElement("a", {href: "/"}, "Home")), 
