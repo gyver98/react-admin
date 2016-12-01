@@ -24,6 +24,6 @@ var About = React.createClass({
     }
 });
 
-module.exprots = About;
+module.exports = About;
 
 
